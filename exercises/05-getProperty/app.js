@@ -1,3 +1,5 @@
 function getProperty(obj, key) {
-  // your code here
+ // your code here
+
+  return obj[key];
 }
